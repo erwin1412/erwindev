@@ -593,7 +593,7 @@ function App() {
               </a>
               
               <a
-                href="https://github.com"
+                href="https://github.com/erwin1412"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-4 bg-gray-800 rounded-xl font-semibold flex items-center justify-center gap-3 hover:bg-gray-700 transition"
@@ -619,7 +619,7 @@ function App() {
             
             <div className="flex flex-col items-center md:items-end">
               <div className="flex gap-6 mb-4">
-                <a href="https://github.com" className="text-gray-400 hover:text-white transition">
+                <a href="https://github.com/erwin1412" className="text-gray-400 hover:text-white transition">
                   <FaGithub size={20} />
                 </a>
                 <a href="https://linkedin.com/in/erwin1412" className="text-gray-400 hover:text-[#0A66C2] transition">
